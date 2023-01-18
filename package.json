@@ -1,0 +1,28 @@
+{
+  "name": "@epilot/sdk-examples",
+  "version": "1.0.0",
+  "description": "Uses [epilot-sdk](https://github.com/epilot-dev/sdk-js) with [Jupyter Lab](https://jupyter.org/).",
+  "main": "index.js",
+  "scripts": {
+    "start": "jupyter-lab",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "epilot",
+    "sdk",
+    "jupyter",
+    "notebooks"
+  ],
+  "author": "epilot GmbH",
+  "license": "MIT",
+  "dependencies": {
+    "@epilot/auth": "^0.4.2",
+    "@types/lodash": "^4.14.191",
+    "axios": "^0.25.0",
+    "epilot-sdk": "^1.2.7",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "p-queue": "^4.0.0",
+    "p-retry": "^4.6.2"
+  }
+}
