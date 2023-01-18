@@ -1,6 +1,8 @@
-# Examples for epilot API / SDK
+# epilot API/SDK examples
 
 Uses [epilot-sdk](https://github.com/epilot-dev/sdk-js) with [Jupyter Lab](https://jupyter.org/).
+
+![Jupyter Labs screenshot](./assets/screenshot.png)
 
 ## Quick Start
 
