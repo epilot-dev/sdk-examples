@@ -20,11 +20,12 @@ jupyter-lab
 
 ## Installation
 
-Clone this repository
+Clone this repository and install dependencies
 
 ```
 git clone https://github.com/epilot-dev/sdk-examples.git
 cd sdk-examples/
+npm install
 ```
 
 If not yet installed, install and build jupyter lab using pip:
