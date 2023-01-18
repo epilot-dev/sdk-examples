@@ -8,7 +8,7 @@ Uses [epilot-sdk](https://github.com/epilot-dev/sdk-js) with [Jupyter Lab](https
 
 ```
 npm install
-jupyter-lab
+jupyter-lab # notebooks running at http://localhost:8888/
 ```
 
 ## Requirements
